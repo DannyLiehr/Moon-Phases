@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Moon-Phases/static/css/main.e6c13ad2.css",
+    "main.js": "/Moon-Phases/static/js/main.36d54d76.js",
+    "static/js/453.08d7bab7.chunk.js": "/Moon-Phases/static/js/453.08d7bab7.chunk.js",
+    "static/media/stars.png": "/Moon-Phases/static/media/stars.0e38a80f83db28425540.png",
+    "index.html": "/Moon-Phases/index.html",
+    "main.e6c13ad2.css.map": "/Moon-Phases/static/css/main.e6c13ad2.css.map",
+    "main.36d54d76.js.map": "/Moon-Phases/static/js/main.36d54d76.js.map",
+    "453.08d7bab7.chunk.js.map": "/Moon-Phases/static/js/453.08d7bab7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.36d54d76.js"
+  ]
+}
